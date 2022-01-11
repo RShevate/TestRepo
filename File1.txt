@@ -1,7 +1,3 @@
 Change 1 – “Change1 in File1”
 Change 2 – “Change2 in File1”
-Change 3 - "Changes added for fixing the bug"
-Change 4 - "Changes done by teammate"
-
-
-
+Change 3 - "Change3 in File1"
